@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Gilberto Nardi
+
+Physics MSc student @ unimi (https://www.unimi.it/en)
+
 <!--
 **gilbogilb/gilbogilb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
